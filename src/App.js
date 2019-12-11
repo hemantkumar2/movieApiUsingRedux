@@ -5,7 +5,7 @@ import { Provider } from 'react-redux'
 // import PageTwo from './PageTwo'
 import Landing from './Components/Home/Landing'
 import Store from './Store/Store'
-import './App.css';
+import './App.scss';
 
 function App() {
   return (
